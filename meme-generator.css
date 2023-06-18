@@ -1,0 +1,32 @@
+:root {
+    font-family: Helvetica;
+    font-size: 14px;
+}
+body{
+    display: flex;
+    background-color: azure;
+    
+    
+}
+img{
+    height: 700px;
+    width: 750px;
+}
+* {
+    font: inherit;
+   
+}
+.Box{
+    border: 2px solid black;
+    height: 700px;
+    width: 700px;
+    overflow: hidden;
+    margin: auto;
+   background-color: rgb(202, 217, 244);
+    text-align: center;
+
+}
+
+#meme-canvas {
+    width: 300px;
+}
